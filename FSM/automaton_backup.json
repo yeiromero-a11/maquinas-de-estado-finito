@@ -1,0 +1,12 @@
+{"nodes":[{"x":394,"y":413,"text":"find leaf","isAcceptState":false,"textOnly":false},
+    {"x":268,"y":188,"text":"run away","isAcceptState":false,"textOnly":false},
+    {"x":525,"y":182,"text":"go home","isAcceptState":false,"textOnly":false}],
+    "links":[{"type":"Link","nodeA":1,"nodeB":0,"text":"","lineAngleAdjust":3.141592653589793,
+    "parallelPart":0.4763838137772363,"perpendicularPart":-22.894557858520653},
+    {"type":"Link","nodeA":0,"nodeB":1,"text":"mouse cerca","lineAngleAdjust":3.141592653589793,"parallelPart":0.5190147516578697,
+    "perpendicularPart":-56.85249199928375},{"type":"Link","nodeA":2,"nodeB":0,"text":"salir de casa","lineAngleAdjust":3.141592653589793,
+    "parallelPart":0.43828876095402863,"perpendicularPart":-52.210465307943124},{"type":"Link","nodeA":0,"nodeB":2,
+    "text":"encuantra la hoja","lineAngleAdjust":3.141592653589793,"parallelPart":0.5434899747596496,
+    "perpendicularPart":-23.218876962767926},{"type":"SelfLink","node":0,"text":"nuevamente busca la hoja",
+    "anchorAngle":0.8734055369251891},{"type":"SelfLink","node":1,"text":"mouse esta lejos","anchorAngle":-1.7524451567949086}],
+    "nodeRadius":50}
